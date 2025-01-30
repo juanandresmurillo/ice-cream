@@ -53,4 +53,53 @@ header{
     
 
 }
+main{
+
+    background-color: brown;
+    padding-top:45px;
+    padding-left:75px;
+    padding-right:75px; 
+}
+
+.section__container{
+    display: flex;
+}
+.article__jumping{
+    width: 679;
+    background-color: violet;
+    display:flex;
+    flex-direction: column;
+}
+.article__jumping h1{
+    color: var(--color-1);
+    font-family:"Poppins-SemiBold";
+    font-size: 120px;
+    line-height: 110px;
+}
+.article__jumping p{
+   
+}
+.div__buttons{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
