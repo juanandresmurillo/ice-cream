@@ -117,44 +117,72 @@ backdrop-filter: blur(24px);
 
 
 .section_container {
+    background-color: antiquewhite;
+    display: flex;
 }
 
 
 
 
 .article_jumping {
+    background-color:beige ;
 }
 
 
 
 .div_buttons {
+    background-color: black;
 }
 
 
 
 .article_reviews {
+    background-color: chartreuse;
+    padding: 20px;
 }
 
 
 
 .div_reviewscontainer {
+    background-color: var(--color-1);
+    background-color: brown;
+    padding: 20px;
 }
 
 
 
 .div_reviesw-cards {
+    background-color: chocolate;
+    padding: 20px;
 }
+.div_reviesw-cards p{
+    background-color: powderblue;
+    padding: 20px;
+}
+
 
 
 
 
 .div_reviesw-profile {
+    background-color: yellow;
+    padding: 20px;
+    display: flex ;
+    align-items: center;
+}
+.div_reviesw-profile img{
+    background-color: peru;
+    padding: 20px;
 }
 
 
 
 
-.div_reviesw-rating {
+.div_reviesw-rating img{
+    background-color: tomato;
+    padding: 28px;
+    justify-content: end;
+    align-items: start;
 }
 
 
@@ -163,6 +191,7 @@ backdrop-filter: blur(24px);
 
 
 .div_reviews-stars {
+    background-color: violet;
 }
 
 
